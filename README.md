@@ -22,7 +22,7 @@ En mi tiempo libre, también hago streams en Twitch (sí, soy multitarea):
 
 Hardware, gaming y alguna que otra charla estoica (guiño guiño).
 🚀 ¿Qué puedes esperar de mí?
-Soy alguien que aprende rápido y que no le tiene miedo a un pantallazo azul ni a un error 500. Mi objetivo ahora es mejorar como programador, seguir creando contenido y fusionar ese mundo con mi pasión por el hardware y la edición de videos.
+Soy alguien que aprende rápido y que no le tiene miedo a un pantallazo azul ni a un error 500. Mi objetivo ahora es mejorar como programador, seguir creando contenido y fusionar ese mundo con mi pasión por el hardware.
 
 🔧 ¿Hablamos o colaboramos?
 ¡Encantado de conectar! Aquí siempre hay espacio para un pull request interesante. 😊
